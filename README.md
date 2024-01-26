@@ -1,0 +1,6 @@
+- 🌸 Hi, I’m Josephine!
+- 🌸 I’m interested in engineering, robotics, and computer science.
+- 🌸 I’m currently learning pixel art and taking the Nand2Tetris course at my high school.
+- 🌸 Email: josiechan.nyc@gmail.com
+- 🌸 Pronouns: she/her
+- 🌸 Fun fact: I'm a proud Ravenclaw.
