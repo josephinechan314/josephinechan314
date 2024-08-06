@@ -1,3 +1,1 @@
-- 🌸 Hi, I’m Josephine!
-- 🌸 I’m interested in engineering, robotics, and computer science.
-- 🌸 Pronouns: she/her
+
